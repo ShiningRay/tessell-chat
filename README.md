@@ -9,8 +9,8 @@ SDL2 + OpenGL 宿主，WebSocket 收发走后台纤程、每帧泵入 UI。
 
 | 服务端 | 仓库内目录 | 运行时 |
 |---|---|---|
-| Crystal | `crystal/` | troupe.cr + troupe-gateway |
-| Ruby | `ruby/` | trouperb |
+| Crystal | `crystal/` | troupe-cr + troupe-gateway |
+| Ruby | `ruby/` | troupe-rb |
 | JavaScript/TS | `js/` | troupejs |
 | Elixir | `elixir/` | troupe-elixir（规划中） |
 
