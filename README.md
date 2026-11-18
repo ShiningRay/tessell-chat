@@ -11,7 +11,7 @@ SDL2 + OpenGL 宿主，WebSocket 收发走后台纤程、每帧泵入 UI。
 |---|---|---|
 | Crystal | `crystal/` | troupe-cr + troupe-gateway |
 | Ruby | `ruby/` | troupe-rb |
-| JavaScript/TS | `js/` | troupejs |
+| JavaScript/TS | `js/` | troupe-js |
 | Elixir | `elixir/` | troupe-elixir（规划中） |
 
 协议见服务端仓 [docs/protocol.md](https://github.com/ShiningRay/troupe-chat/blob/main/docs/protocol.md)；
